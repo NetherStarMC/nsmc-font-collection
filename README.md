@@ -16,4 +16,5 @@ Here's a list of them:
 - Adobe
 - Linotype
 - Monotype
+  
 ...among others.
