@@ -6,7 +6,7 @@ Here, you can find fonts from multiple different foundries (e.g., ITC, Typodermi
 ## But what are these "mainstream foundries" you're talking about?
 Here's a list of them:
 - ITC
-- Bitstream
+- Bitstream (yes, I misspelled it as Bitsream (┬┬﹏┬┬))
 - Font Bureau
 - Berthold
 - Microsoft
