@@ -10,7 +10,6 @@ Funny you should ask. Here's a list of them:
 - Font Bureau
 - Berthold
 - Microsoft
-- Google Fonts
 - Letraset
 - Elsner+Flake
 - URW Type Foundry
